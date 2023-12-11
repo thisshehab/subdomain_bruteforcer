@@ -1,0 +1,1 @@
+puredns bruteforce input/wordlist1/list.txt --domains output/dsieve/output1.txt --quiet --resolvers input/resolvers.txt --resolvers-trusted input/trusted-resolvers.txt -w output/puredns-output/output1.txt
