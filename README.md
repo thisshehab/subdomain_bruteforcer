@@ -30,5 +30,5 @@ https://example.com <br>
 ...
 
 ```console
-sudo docker run -v ./yourinput.txt:/app/domains.txt -it urlenumration
+sudo docker run -v ./yourinput.txt:/app/input.txt -it subdomainbruteforcer
 ```
