@@ -16,7 +16,7 @@ sudo systemctl start docker
 clone the repository
 ```console
 git clone https://github.com/thisshehab/subdomain_bruteforcer.git
-cd url-enumration
+cd subdomain_bruteforcer
 ```
 build the image 
 ```console
