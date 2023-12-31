@@ -18,6 +18,7 @@ WORKDIR /app
 COPY . .
 
 RUN chmod +x ./command.sh
+RUN chmod +x -R scripts/
 
 CMD []
 
