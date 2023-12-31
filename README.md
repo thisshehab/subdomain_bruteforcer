@@ -20,7 +20,7 @@ cd subdomain_bruteforcer
 ```
 build the image 
 ```console
-docker build -t subdomain_bruteforcer .
+docker build -t subdomainbruteforcer .
 ```
 ## Usage
 replace the file yourinput.txt with yours one, make sure that the file format like this 
